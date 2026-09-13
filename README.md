@@ -5,7 +5,7 @@
 
 # Hi, I'm Aditya Rane 👋
 
-🎓 **Bachelor of Electrical Engineering Student** at **Dalhousie University**  
+🎓 **Third Year Bachelor of Electrical Engineering Student** at **Dalhousie University**  
 📍 **Halifax, NS, Canada**  
 🎯 Seeking **Summer 2027 Co-op/Internship Opportunities**
 
@@ -15,36 +15,58 @@
 
 ## 🛠️ Technical Skills
 
-* **Languages & Software:** C, C++, Python, SolidWorks, MATLAB
+* **Languages & Software:** C, C++, Python, SolidWorks
 * **Embedded & Hardware:** Arduino, ESP32/ESP8266, Microcontrollers, Benchtop DC Power Supplies, Digital Multimeters (DMM), EV Battery Systems
 * **Protocols & Concepts:** PWM, CAN-bus, I2C, Signal Integrity, Hardware-in-the-Loop (HIL) Testing, Circuit Troubleshooting, ESC Calibration
 
 ---
 
-## 🔬 Engineering Projects & Hands-On Experience
+## 🎯 Personal & Academic Interests
 
-### 🏎️ [Formula SAE — Harness & Electronics Design](https://github.com/AdityaRane/fsae-harness)
-* **Signal Integrity & EMI Isolation:** Routed chassis wiring to physically isolate sensitive 22 AWG analog sensor lines from high-voltage ignition systems, eliminating ECU signal noise.
-* **Prototyping & Assembly:** Terminated connections with Deutsch DT connectors, 18/22 AWG thin-wall wire, and heat shrink/loom for thermal/vibration resistance.
-* **Validation:** Executed 100% pin-to-pin continuity and short-circuit bench testing using DMMs before chassis integration.
-
-### 🤖 [Combat Robotics — ESC & Power Systems](https://github.com/AdityaRane/combat-robotics)
-* **PWM Calibration:** Calibrated dual ESCs via RC transmitter to align PWM duty cycles (0–100%) and eliminate straight-line drift.
-* **Circuit Diagnostics:** Identified and resoldered cold solder joints via benchtop DC power supplies and DMM analysis to fix voltage drops under load.
-* **Safety Verification:** Validated receiver fail-safe routines to guarantee immediate power cutoff upon loss of signal.
-
-### 🌡️ [Smart Environmental Control System](https://github.com/AdityaRane/smart-environmental-control)
-* **Climate Automation:** Built an automated control system using Arduino/ESP microcontrollers to process dynamic sensor data for temperature and lighting.
-* **Embedded Logic:** Programmed PWM dynamic fan control and Real-Time Clock (RTC) constraints to eliminate unwanted nighttime cycling.
-
-### 🚗 [IoT & Autonomous Smart Car](https://github.com/AdityaRane/autonomous-smart-car)
-* **Firmware & Control:** Developed C firmware utilizing IR signal processing and pin-state polling logic for remote-controlled drive operation.
+* **Technical & Engineering:** VLSI Design, Nanotechnology, Robotics & Embedded Systems, Renewable Energy
+* **Personal & Hobbies:** Music, Soccer, Basketball
 
 ---
 
-## 📚 Professional Development
+## 🔬 Engineering Projects & Hands-On Experience
 
-* **Battery Energy Storage Systems (BESS) & Safety:** Completed technical industry seminars hosted by Infineon & dSPACE covering BESS architecture, HIL testing, power electronics, and thermal runaway mitigation.
+### 🏎️ Formula SAE — Electronics Design
+* Designed, routed, and built custom LV power and sensor harnesses for the FSAE vehicle using **Deutsch DT connectors** and heat shrink protection..
+* Isolated **22 AWG** analog signal lines from high-voltage ignition systems, eliminating **ECU** data noise and signal drops.
+* Implemented 100% pin-to-pin continuity, resistance, and short testing using **DMMs** to guarantee zero wiring defects prior to vehicle integration.
+
+### 🤖 Combat Robotics — ESC & Power Systems
+* Calibrated **dual Electronic Speed Controllers (ESCs)** via **RC transmitter** to align **PWM** signals across 0–100% duty cycles, resolving uneven motor acceleration and straight-line drift.
+* Diagnosed motor current imbalance using a **benchtop DC power supply and digital multimeter**, identifying and re-soldering a cold solder joint to eliminate localized voltage drop.
+* Tested high-current power lines and verified receiver fail-safe functionality to ensure immediate motor power cutoff upon radio signal loss.
+
+### 🌡️ [Smart Environmental Control System](https://github.com/AdityaRane-git/smart-environmental-control)
+* Designed and built an automated environmental control system using **Arduino and ESP microcontrollers**, integrating temperature and luminosity sensors to manage climate and lighting.
+* Programmed **PWM-based** dynamic fan speed control and incorporated **Real-Time Clock (RTC)** constraints to eliminate unwanted cycling and toggling during night hours.
+* Architecture currently expanding to incorporate motorized blind/curtain actuation and **multi-node CAN-bus/I2C** communication protocols.
+
+### 🚗 [IoT & Autonomous Smart Car](https://github.com/AdityaRane/autonomous-smart-car)
+* Designed and built remote controlled car using an **Arduino-based microcontroller**, integrating **infrared receiver** for commands.
+* Using **C**, programmed checking pins for received signals and logic to control motors by setting the appropriate pins for vehicle manouvering.
+* Future expansion to integrate obstacle avoidance feature by using **ultrasonic sensors**.
+
+---
+## 🎖️ Leadership Experience
+
+### **Halifax West Royal Canadian Cadet Corps** | Halifax, NS  
+**Warrant Officer** | *2021 – 2024*
+
+* **Unit Operations & Leadership:** Promoted through the ranks to Warrant Officer, directing activity planning and time-management strategies for weekly cadet operations[cite: 1].
+* **Team Mentorship & Instruction:** Led squads through field navigation and drill exercises while directly mentoring junior cadets in marksmanship, physical discipline, and field safety protocols[cite: 1]. 
+
+---
+
+## 📚 Professional Development & Industry Training
+
+### **Conferences & Seminars**
+
+* **Battery Energy Storage Systems (BESS) & Safety:** Attended technical webinars hosted by Infineon and dSPACE covering BESS architecture, Hardware-in-the-Loop (HIL) testing, and thermal runaway mitigation protocols.
+* **Standards & Power Electronics:** Gained functional knowledge of modern power electronics design, thermal management, and industry safety standards beyond core academic coursework.
 
 ---
 
