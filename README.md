@@ -72,6 +72,6 @@
 
 ## 📬 Connect with Me
 
-* **Website:** [adityarane.github.io](https://adityarane.github.io)
+* **Website:** [https://github.com/adityarane-git](https://github.com/adityarane-git)
 * **LinkedIn:** [linkedin.com/in/adityaarane](https://www.linkedin.com/in/adityaarane/)
 * **Email:** [aditya.rane@outlook.com](mailto:aditya.rane@outlook.com)
