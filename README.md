@@ -7,11 +7,11 @@
 
 🎓 **Third Year Bachelor of Electrical Engineering Student** at **Dalhousie University**  
 📍 **Halifax, NS, Canada**  
-🎯 Seeking **Summer 2027 Co-op/Internship Opportunities**
+[LinkedIn: https://www.linkedin.com/in/adityaarane](https://www.linkedin.com/in/adityaarane/) | [Email: aditya.rane@outlook.com](mailto:aditya.rane@outlook.com)
 
-[LinkedIn](https://www.linkedin.com/in/adityaarane/) | [Email](mailto:aditya.rane@outlook.com)
+🎯 Third-year Electrical Engineering student with focus on embedded systems, microelectronics and robotic research. Proven leadership experience in army cadet activities and a strong foundation in STEM, critical thinking, reasoning and problem-solving. 
+Seeking **Summer 2027 Co-op/Internship Opportunities** that enable me to apply my knowledge and skills learnt during engineering in a practical work setting as well as learn from seasoned and experienced professionals to develop myself further.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -19,14 +19,10 @@
 * **Embedded & Hardware:** Arduino, ESP32/ESP8266, Microcontrollers, Benchtop DC Power Supplies, Digital Multimeters (DMM), EV Battery Systems
 * **Protocols & Concepts:** PWM, CAN-bus, I2C, Signal Integrity, Hardware-in-the-Loop (HIL) Testing, Circuit Troubleshooting, ESC Calibration
 
----
-
 ## 🎯 Personal & Academic Interests
 
 * **Technical & Engineering:** VLSI Design, Nanotechnology, Robotics & Embedded Systems, Renewable Energy
 * **Personal & Hobbies:** Music, Soccer, Basketball
-
----
 
 ## 🔬 Engineering Projects & Hands-On Experience
 
@@ -50,7 +46,6 @@
 * Using **C**, programmed checking pins for received signals and logic to control motors by setting the appropriate pins for vehicle manouvering.
 * Future expansion to integrate obstacle avoidance feature by using **ultrasonic sensors**.
 
----
 ## 🎖️ Leadership Experience
 
 ### **Halifax West Royal Canadian Cadet Corps** | Halifax, NS  
@@ -59,7 +54,6 @@
 * **Unit Operations & Leadership:** Promoted through the ranks to Warrant Officer, directing activity planning and time-management strategies for weekly cadet operations[cite: 1].
 * **Team Mentorship & Instruction:** Led squads through field navigation and drill exercises while directly mentoring junior cadets in marksmanship, physical discipline, and field safety protocols[cite: 1]. 
 
----
 
 ## 📚 Professional Development & Industry Training
 
@@ -67,8 +61,6 @@
 
 * **Battery Energy Storage Systems (BESS) & Safety:** Attended technical webinars hosted by Infineon and dSPACE covering BESS architecture, Hardware-in-the-Loop (HIL) testing, and thermal runaway mitigation protocols.
 * **Standards & Power Electronics:** Gained functional knowledge of modern power electronics design, thermal management, and industry safety standards beyond core academic coursework.
-
----
 
 ## 📬 Connect with Me
 
