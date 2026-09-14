@@ -41,7 +41,7 @@ Seeking **Summer 2027 Co-op/Internship Opportunities** that enable me to apply m
 * Programmed **PWM-based** dynamic fan speed control and incorporated **Real-Time Clock (RTC)** constraints to eliminate unwanted cycling and toggling during night hours.
 * Architecture currently expanding to incorporate motorized blind/curtain actuation and **multi-node CAN-bus/I2C** communication protocols.
 
-### 🚗 [IoT & Autonomous Smart Car](https://github.com/AdityaRane/smart-car)
+### 🚗 [IoT & Autonomous Smart Car](https://github.com/AdityaRane-git/smart-car)
 * Designed and built remote controlled car using an **Arduino-based microcontroller**, integrating **infrared receiver** for commands.
 * Using **C**, programmed checking pins for received signals and logic to control motors by setting the appropriate pins for vehicle manouvering.
 * Future expansion to integrate obstacle avoidance feature by using **ultrasonic sensors**.
